@@ -2,7 +2,7 @@ Core developer of TSNsched, the first open source tool to solve the NP-Complete 
 
 Expertise on IoT security, Time Sensitive Networks and formal methods.
 
-Looking for open, challenging issues to tackle, formally or not. 
+Currently developing upcoming changes to TSNsched and looking for open, challenging issues to tackle, formally or not. 
 
 ### Relevant works related to ACTS Tech:
 
