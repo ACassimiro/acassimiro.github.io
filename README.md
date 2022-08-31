@@ -10,5 +10,5 @@ Currently developing upcoming changes to TSNsched and looking for open, challeng
  - Aellison Cassimiro T. dos Santos, Ben Schneider, and Vivek Nigam. TSNsched: Automated Schedule Generation for Time Sensitive Networking. In FMCAD, 2019.
  
 ### For more information and discussing TSNsched:
- - https://github.com/ACassimiro/TSNsched 
+ - [TSNsched's github page.](https://github.com/ACassimiro/TSNsched) 
 
